@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import data from '../questions_data/data';
+import data from '../questions_data/data2';
 import Answers from './Answers.jsx';
 import Popup from './Popup.jsx';
 

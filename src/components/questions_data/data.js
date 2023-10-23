@@ -103,7 +103,7 @@ export default [
             "To filter out certain elements from the list.",
             "To reverse the order of the elements."
         ],
-        correct: 0
+        correct: 1  
     }
     ,{
         question: "What is React context used for?",
