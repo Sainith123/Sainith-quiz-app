@@ -52,7 +52,7 @@ header .header_logo_title {
 ======================*/
 #question {
     margin-top: 100px;
-    background-color: #F57C00;
+    background-color: #3c3c3c;
     color: white;
     padding: 10px;
     text-align: center;
@@ -90,17 +90,17 @@ header .header_logo_title {
 
 #answers li {
     background-color: #fff;
-    border: 2px solid #FF9800;
+    border: 2px solid #080007;
     min-height: 70px;
     width: 100%;
     display: flex;
     margin-bottom: 30px;
-    transition: color .3s ease, border-color .3s ease, transform .3s ease;
+    transition: color .1s ease, border-color .1s ease, transform .1s ease;
     cursor: pointer;
 }
 
 #answers li span {
-    background-color: #FF9800;
+    background-color:#3c3c3c;
     color: #fff;
     font-size: 30px;
     flex: 75px;
@@ -116,7 +116,7 @@ header .header_logo_title {
     font-weight: 600;
     flex: calc(100% - 75px);
     margin: auto 20px;
-    transition: color .3s ease;
+    transition: color .1s ease;
 }
 
 #answers li:after{
@@ -184,9 +184,9 @@ header .header_logo_title {
 }
 
 .fancy-btn {
-    border: 2px solid #FF9800;
+    border: 2px solid #3c3c3c;
     border-radius: 0;
-    background-color: #FF9800;
+    background-color: #3c3c3c;
     color: #fff;
     display: inline-block;
     font-size: 18px;
@@ -229,7 +229,7 @@ header .header_logo_title {
 }
 
 .popup h1 {
-    background-color: #FF9800;
+    background-color: #3c3c3c;
     color: white;
     border-bottom: 1px solid #ccc;
     padding: 20px;

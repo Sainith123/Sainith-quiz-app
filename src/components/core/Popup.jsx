@@ -66,7 +66,7 @@ class Popup extends Component {
                                 <span onClick={this.popupHandle}>
                                     <MyButton
                                         text={buttonText}
-                                        bck='#FF9800'
+                                        bck='#3c3c3c'
                                         color='#fff'
                                     />
                                 </span>
